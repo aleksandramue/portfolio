@@ -73,7 +73,7 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 ### Test Cases in TestLink:
 * [Test Case 1](https://drive.google.com/file/d/1L_fHxmoIWwhgVHz1Jg1L_-SwLkxHD-MQ/view?usp=drive_link)
 * [Test Case 2](https://drive.google.com/file/d/1C_acq6D-Xud2SdiVlPBkv-5t2ILcwzNc/view?usp=drive_link)
-* [Test Case 3 with a part of Test Scenarios I prepared for Compliance project](https://drive.google.com/file/d/1L_fHxmoIWwhgVHz1Jg1L_-SwLkxHD-MQ/view?usp=drive_link)
+* [Test Case 3 with a part of Test Scenarios I prepared for Compliance project](https://drive.google.com/file/d/1b7E-iyK2Ae7A0x9y_JT-mopBWVMLOA-3/view?usp=drive_link)
 * [Test Case 4 with a part of Test Scenarios I prepared for Compliance project](https://drive.google.com/file/d/1KicMpPuyJYDQulGRk5zUURjvk--j_qVs/view?usp=drive_link)
 
 ### Bug Reports in Jira:
@@ -84,11 +84,11 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * [Bug Report 5](https://drive.google.com/file/d/18CDU3Zc5iElz2C2ekxIpwlgmaLSTqktP/view?usp=drive_link)
 
 ### Test Plan in TestLink:
-* [Test Plan for Compliance Project](https://drive.google.com/file/d/15OcFWUEqGfyO69LNPbo2HkMCTf65fuGx/view?usp=drive_link)
+* [Test Plan for Compliance Project](https://drive.google.com/file/d/115J9Y0v3JNl4CfgK2b4B-XTsMbV6CNmz/view?usp=drive_link)
 
 ### Mind Maps:
 * [Mind map prepared for registration tests in Prawo.pl](https://drive.google.com/file/d/1IKnbpsu2t4wOoS6fW3JdW1wc5ma5VT4J/view?usp=drive_link)
 * [Mind map prepared for logging in and logging out tests in Prawo.pl](https://drive.google.com/file/d/1OUZyDwYoFv7omMF8KbV3f7QN8FjK3M5F/view?usp=drive_link)
 
 ### Decision Table:
-* [Decision table prepared to test a discount in Prawo.pl](https://drive.google.com/file/d/1V-2dltDVBG_i5Pk2dGZXWtWTMBRUFYXr/view?usp=drive_link)
+* [Decision table prepared to test a discount in Prawo.pl](https://drive.google.com/file/d/1icHPLGi0eA_TvaTQlGdPOEh03_NFgy7i/view?usp=drive_link)
