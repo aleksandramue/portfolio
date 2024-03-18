@@ -62,8 +62,8 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 ### Test Cases in TestLink:
 * [Test Case 1](https://drive.google.com/file/d/1u1Ra1q_qG5YLDRfhLVFf_SWhI3_TXXmE/view?usp=drive_link)
 * [Test Case 2](https://drive.google.com/file/d/1F2RKmn3RIyZ2wYwZzrWqmFg_W6NLij4l/view?usp=drive_link)
-* [Test Case 3 with a part of Test Scenarios I prepared for Compliance project](https://drive.google.com/file/d/1_JgNQ65edkReWTCfYfKR51ewwmWsSbgG/view?usp=drive_link)
-* [Test Case 4 with a part of Test Scenarios I prepared for Compliance project](https://drive.google.com/file/d/168qrBxyFL66QuN2B26NitAjQZc89--r5/view?usp=drive_link)
+* [Test Case 3](https://drive.google.com/file/d/1_JgNQ65edkReWTCfYfKR51ewwmWsSbgG/view?usp=drive_link)
+* [Test Case 4](https://drive.google.com/file/d/168qrBxyFL66QuN2B26NitAjQZc89--r5/view?usp=drive_link)
 
 ### Bug Reports in Jira:
 * [Bug Report 1](https://drive.google.com/file/d/1EQxoihS2Elu9uRI5jCsY7HJ-EibG7hG-/view?usp=drive_link)
