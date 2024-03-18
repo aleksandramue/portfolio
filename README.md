@@ -25,7 +25,6 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 ### Books:
 * *Zawód Tester*, R. Smilgin
 * *Pasja testowania*, K. Jadczyk
-* *A Friendly Introduction to Software Testing,* B. Laboon
 * *Podróż przez świat testowania,* K. Pawłowska & N. Pawlak
 * *Praktyka testowania. Zeszyt ćwiczeń*, R. Smilgin
 
