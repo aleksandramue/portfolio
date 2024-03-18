@@ -32,7 +32,6 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * https://testuj.pl/
 * https://testerzy.pl/
 * https://testowanie-oprogramowania.pl/blog/
-* https://www.ministryoftesting.com/
 * https://www.wyszkolewas.com.pl/
 
   
