@@ -18,7 +18,7 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * *Podstawy testowania w praktyce* by CODE:ME
 * *Projekt treningowy 2/2022* Trello by CherryIT
 * *Praktyczny kurs testowania oprogramowania* by Testowanie Oprogramowania on Udemy
-* *Automatyzacja testów w Python* by CODE:ME
+* *MySQL tworzenie i zarządzanie bazami danych* by K. Raczyński on Udemy
 * *Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD* by M. Maj on Udemy - in progress
 * *Chrome DevTools: Od podstaw do Eksperta* by R. Podraza on Udemy - in progress
 
