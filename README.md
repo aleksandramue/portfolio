@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 ## About me
-I am a Certified Software Tester with over 2 years of commercial experience connected with the legal and compliance industry. Projects I currently work on are web applications used mainly by the legal community, but also by local government units, banks or medical facilities. In my daily work I usually perform functional, regression and exploratory tests, I also create test scenarios, test cases, bug reports and analyse business requirements. Apart from that, I like to expand my knowledge and skills by reading books, participating in webinars and meet-ups, listening to podcasts and completing various IT courses.
+I am a Certified Software Tester with over 2 years of commercial experience connected with the legal and compliance industryies. Projects I currently work on are web applications used mainly by the legal community, but also by local government units, banks or medical facilities. In my daily work I usually perform functional, regression and exploratory tests, I also create test scenarios, test cases, bug reports and analyse business requirements. Apart from that, I like to expand my knowledge and skills by reading books, participating in webinars and meet-ups, listening to podcasts and completing various IT courses.
 
 ## Tech Info
 
@@ -10,7 +10,7 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * Screen and video capture app: **Screenpresso**
 * App for work organisation and creating check lists: **Notion, Evernote**
 
-### Certificates:
+### Certification:
 * ISTQB Foundation Level
 * *Podstawy testowania w praktyce* by CODE:ME
 
