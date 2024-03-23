@@ -8,7 +8,7 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 ### Tools:
 * Testing: **Jira, TestLink, Tanzanit, Chrome DevTools, Browserstack**
 * Screen and video capture app: **Screenpresso**
-* App for personal notes and work organisation: **Notion, Evernote**
+* App for work organisation and creating check lists: **Notion, Evernote**
 
 ### Certificates:
 * ISTQB Foundation Level
