@@ -62,6 +62,7 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * [Test Case 1](https://drive.google.com/file/d/1u1Ra1q_qG5YLDRfhLVFf_SWhI3_TXXmE/view?usp=drive_link)
 * [Test Case 2](https://drive.google.com/file/d/1_JgNQ65edkReWTCfYfKR51ewwmWsSbgG/view?usp=drive_link)
 * [Test Case 3](https://drive.google.com/file/d/168qrBxyFL66QuN2B26NitAjQZc89--r5/view?usp=drive_link)
+* [Test Case 4](https://drive.google.com/file/d/1j6M0rItUzu4LVlKb0tkBYfCwSty6QBsS/view?usp=sharing)
 
 ### Bug Reports in Jira:
 * [Bug Report 1](https://drive.google.com/file/d/1EQxoihS2Elu9uRI5jCsY7HJ-EibG7hG-/view?usp=drive_link)
@@ -76,3 +77,4 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 
 ### Decision Table:
 * [Decision table prepared to test a discount](https://drive.google.com/file/d/1KfsL3rEE4ia7Bd3OZ6c-kezqdqRcUFSS/view?usp=drive_link)
+
