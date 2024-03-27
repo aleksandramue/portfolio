@@ -76,5 +76,5 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * [Mind map prepared for logging in and logging out tests](https://drive.google.com/file/d/1VRv92oxs0guVyalZanf9i6okQ6HT97nj/view?usp=drive_link)
 
 ### Decision Table:
-* [Decision table prepared to test a discount](https://drive.google.com/file/d/1KfsL3rEE4ia7Bd3OZ6c-kezqdqRcUFSS/view?usp=drive_link)
+* [Decision table prepared to test a discount](https://drive.google.com/file/d/1FvPsd-Qi7l_aWQWpk3j_cqkNLn0xw4jP/view?usp=drive_link)
 
