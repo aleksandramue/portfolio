@@ -33,7 +33,7 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * *Pasja testowania*, K. Jadczyk
 * *Podróż przez świat testowania,* K. Pawłowska & N. Pawlak
 * *Praktyka testowania. Zeszyt ćwiczeń*, R. Smilgin
-* 
+* *Człowiek vs komputer*, G. Adzic
 
 ### Blogs:
 * https://testuj.pl/
