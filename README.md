@@ -6,7 +6,11 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 ## Tech Info
 
 ### Tools:
-* Testing: **Jira, TestLink, Tanzanit, Chrome DevTools, Browserstack**
+* Testing: **Jira, TestLink, Tanzanit, Chrome DevTools, Browserstack** (Intermediate)
+* IDE: **Visual Studio Code, PyCharm** (Basic)
+* SQL: **MySQL Workbench** (Basic)
+* CI/CD: **Jenkins** (Familiar with)
+* API: **Postman** (Familiar with)
 * Screen and video capture app: **Screenpresso**
 * App for work organisation and creating check lists: **Notion, Evernote**
 
@@ -29,6 +33,7 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * *Pasja testowania*, K. Jadczyk
 * *Podróż przez świat testowania,* K. Pawłowska & N. Pawlak
 * *Praktyka testowania. Zeszyt ćwiczeń*, R. Smilgin
+* 
 
 ### Blogs:
 * https://testuj.pl/
