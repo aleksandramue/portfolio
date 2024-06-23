@@ -27,7 +27,7 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * *Bezpłatny kurs Git i Github 2023* by W. Pruchnicki on Udemy
 * *Kurs Jenkins dla testerów automatyzujących* by Tester Oprogramowania  on Udemy
 * *Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD* by M. Maj on Udemy - in progress
-* Chat GPT for Software Testers
+* *Chat GPT for Software Testers*
 
 ### Books:
 * *Zawód Tester*, R. Smilgin
