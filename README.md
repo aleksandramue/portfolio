@@ -17,6 +17,7 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 ### Certification:
 * ISTQB Foundation Level
 * *Podstawy testowania w praktyce* by CODE:ME
+* [Moduł ogólny - Wprowadzenie do dostępności cyfrowej by Ministerstwo Cyfryzacji](https://drive.google.com/file/d/17PfulGs_u12sJ_0UghZF3Bk9Xe4XtjQ1/view?usp=sharing)
 
 ### Courses and initiatives:
 * *Podstawy testowania w praktyce* by CODE:ME
