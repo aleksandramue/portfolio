@@ -30,6 +30,7 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * *Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD* by M. Maj on Udemy - in progress
 * *Chat GPT for Software Testers*
 * *W3Schools SQL & MySQL Courses*
+* *Szkoła Testowania Backendu* by Bartek Kita - in progress
 
 ### Books:
 * *Zawód Tester*, R. Smilgin
