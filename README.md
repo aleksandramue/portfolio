@@ -15,8 +15,8 @@ I am a Certified Software Tester with over 2 years of commercial experience conn
 * App for work organisation and creating check lists: **Notion, Evernote**
 
 ### Certification:
-* ISTQB Foundation Level
-* *Podstawy testowania w praktyce* by CODE:ME
+* [ISTQB Foundation Level](https://drive.google.com/file/d/17dW4CPb4uzD24467LEUbX_C38mjgHJHo/view?usp=sharing)
+* [*Podstawy testowania w praktyce* by CODE:ME](https://drive.google.com/file/d/1AfNHbNSeSgxgepeqiM1xAHhXgALD-DS3/view?usp=sharing)
 * [Moduł ogólny - Wprowadzenie do dostępności cyfrowej by Ministerstwo Cyfryzacji](https://drive.google.com/file/d/17PfulGs_u12sJ_0UghZF3Bk9Xe4XtjQ1/view?usp=sharing)
 
 ### Courses and initiatives:
